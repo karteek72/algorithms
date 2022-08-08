@@ -1,4 +1,4 @@
-
+package src.com.training.hackerrank;
 
 
 import java.io.*;

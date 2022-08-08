@@ -1,3 +1,5 @@
+package src.com.training.hackerrank;
+
 import java.io.*;
 import java.math.*;
 import java.security.*;
